@@ -47,6 +47,7 @@
             android:textColor="#6000"
             android:maxLines="2"
             android:ellipsize="end"
+            android:lineSpacingMultiplier="1.15"
             tools:text="Jan 1, 1908
 by Yei Theodora Ozaki"/>
     </LinearLayout>
